@@ -1,2 +1,2 @@
 # Sitemapinator2000
-Regenerate sitemap cache
+A small utility to hit all urls in a sitemap index
